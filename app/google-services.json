@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "990319655460",
+    "project_id": "infiniteapp-6483a",
+    "storage_bucket": "infiniteapp-6483a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990319655460:android:7386e8e4d6f26f081676b1",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4NvfCIk-t6qXg1Xs06eQqhhwZWnKFeFY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
